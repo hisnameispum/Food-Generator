@@ -9,9 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
-    var menuArray = ["กระเพรา", "ผัดซีอิ้ว", "ผัดไท", "แกงแดง", "ผัดผัก", "ผัดมะเขือ", "ไก่อบวุ้นเส้น", "ผัดพริกขิง", "ต้มยำ", "ต้มข่า", "ลาบ", "ไก่ย่าง", "ยำเต้าหู้"]
+    var menuArray = ["Pad Thai Woon Sen", "Som Tum", "Red Curry", "Veg Combo", "Spicy Eggplant", "Clay pot", "Tom Yum", "Tom Kha", "Larb", "Namtok Tofu", "Yellow Curry", "Green Curry"]
     
-    var txt = "อะไรก็ได้"
+    var txt = "Whatever"
     var randomNumber: Int = 0
     override func viewDidLoad() {
         super.viewDidLoad()
